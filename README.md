@@ -1,7 +1,7 @@
 <h1 align="center">Krati Jain</h1>
 <h4 align="center">Full Stack Web3 Developer with 10+ years experience</h4>
 
-<h3 align="center">Co - founder @ <a href="http://msgvalue.com">msg.value</a></h3>
+<h3 align="center">Founder @ <a href="http://msgvalue.com">msg.value</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainkrati&label=Profile%20views&color=0e75b6&style=flat" alt="jainkrati" /> </p>
 
