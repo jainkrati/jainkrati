@@ -9,11 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/kratijain" target="blank"><img src="https://img.shields.io/twitter/follow/kratijain?logo=twitter&style=for-the-badge" /></a> </p>
 
-- 🔭 I’m currently working on [msg.value](http://msgvalue.com)
+- 🌱 I’m currently working on **Solidity, Rust, Cairo, React, Flutter, Python, Golang**
 
-- 🌱 I’m currently learning **Solana and Ethereum**
-
-- 💬 Ask me about **Solana, Ethereum, Full Stack Development**
+- 💬 Ask me anything about **Starknet, Solana, Ethereum and Zero Knowledge Proofs**
 
 
 <h3 align="left">Connect with me:</h3>
