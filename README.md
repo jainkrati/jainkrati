@@ -1,8 +1,6 @@
 <h1 align="center">Krati Jain</h1>
 <h4 align="center">Full Stack Web3 Developer with 10+ years experience</h4>
 
-<h3 align="center">Founder @ <a href="http://msgvalue.com">msg.value</a></h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainkrati&label=Profile%20views&color=0e75b6&style=flat" alt="jainkrati" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jainkrati" alt="jainkrati" /></a> </p>
@@ -10,7 +8,6 @@
 <p align="left"> <a href="https://twitter.com/kratijain" target="blank"><img src="https://img.shields.io/twitter/follow/kratijain?logo=twitter&style=for-the-badge" /></a> </p>
 
 - 🌱 I’m currently working on **Solidity, Rust, Cairo, React, Flutter, Python, Golang**
-
 - 💬 Ask me anything about **Starknet, Solana, Ethereum and Zero Knowledge Proofs**
 
 
