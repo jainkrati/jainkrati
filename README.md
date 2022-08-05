@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/kratijain" target="blank"><img src="https://img.shields.io/twitter/follow/kratijain?logo=twitter&style=for-the-badge" /></a> </p>
 
 - 🌱 I’m currently working on **Solidity, Rust, Cairo, React, Flutter, Python, Golang**
-- 💬 Ask me anything about **Starknet, Solana, Ethereum and Zero Knowledge Proofs**
+- 💬 Ask me anything about **Starknet, Solana, Ethereum, Cosmos, PraSaga and Zero Knowledge Proofs**
 
 
 <h3 align="left">Connect with me:</h3>
