@@ -3,7 +3,7 @@
 
 <h3 align="left">About Me:</h3>
 
-Completed my Engineering in Computer Science 12 years ago and began as a full stack engineer. Developed several mobile and web applications while coding and mentoring team members. 
+Completed my Engineering in Computer Science 13 years ago and began as a full stack engineer. Developed several mobile and web applications while coding and mentoring team members. 
 Evolved from an engineer to a tech lead, manager, engineering head, CTO. Adept in hiring, mentoring, training and leading teams for all tech stacks while extremely hands-on with tech. With experience in solidity, rust, golang, node, react, react native, flutter, swift, kotlin I have developed comfort switching technologies and working on complex projects.
 
 
@@ -16,7 +16,7 @@ Evolved from an engineer to a tech lead, manager, engineering head, CTO. Adept i
 
 <h3 align="left">Portfolio:</h3>
 
-- Librty [Website](https://librty.xyz/) | [All apps](https://linktr.ee/librty)
+- Librty [Website](https://librty.xyz/) | [All apps](https://linktr.ee/librty) | Flutter, unity, JS, Solidity, Rust, AWS
   - Responsible for all things tech: Research, Architecture, Coding, Mentoring, Hiring, Partnerships @ Librty
   - Published Librty dApp and mSite (flutter | JS) supporting EVM chains, solana
   - Launched Librty Genesis NFTs on polygon
@@ -24,21 +24,21 @@ Evolved from an engineer to a tech lead, manager, engineering head, CTO. Adept i
   - Developed KYC for gamers using PolygonID
   - Created smart contract wallets
   - Developed NFT Marketplace using Opensea APIs
-- Parity [Github](https://github.com/paritytech/capi)
+- Parity [Github](https://github.com/paritytech/capi) | Typescript, Rust
   - Developed several use cases for capi as a full stack engineer
-- Crowdpad (Now Kendal) [Website](https://www.crowdpad.io/)
+- Crowdpad (Now Kendal) [Website](https://www.crowdpad.io/) | Flutter, Rust
   - Before crowdpad pivoted to AI, we developed solutions for deeplinking, token locking , quadratic voting and contributed towards tokenomics simulation , auditing on solana
-- Questbook [Website](https://questbook.xyz/)
+- Questbook [Website](https://questbook.xyz/) | Flutter, React, JS, Solidity, AWS
   - Released several features ; Heading the engineering team; gone full stack by initially developing flutter, React and then Node.js, GraphQL. Later we also developed fully decentralized and open sourced grants orchestration tool.
-- Cred [Website](https://cred.club/)
+- Cred [Website](https://cred.club/) | Swift, Kotlin
   - Shipped several payment features for CRED mobile apps with my team of 2 ios and 3 android engineers
-- Microsoft Teams [Mobile Apps](https://www.microsoft.com/en-in/microsoft-teams/download-app#for-mobile12)
+- Microsoft Teams [Mobile Apps](https://www.microsoft.com/en-in/microsoft-teams/download-app#for-mobile12) | Swift, ObjectiveC, Java, Kotlin
   - Leading Software Development for Calendaring in Microsoft Teams for Android and iOS apps by 50% Mentoring team members + 25% (coding & leading fuzzy POCs)+ 25% reviewing code & architecture. Directly responsible for the resiliency, performance and implementation of Meeting related features.
-- Flipkart [Mobile Apps](https://www.flipkart.com/mobile-apps)
+- Flipkart [Mobile Apps](https://www.flipkart.com/mobile-apps) | ObjectiveC, Swift, ReactNative
    - Developed several key features, user experiences and data solutions in ios app for flipkart
-- Raremile (Now Infrrd) [Website](https://www.infrrd.ai/)
+- Raremile (Now Infrrd) [Website](https://www.infrrd.ai/) | Android (Java), IOS (ObjectiveC), BigData, Salesforce Apex
   - Worked as full stack engineer on various client projects
-- Persistent Systems [Website](https://www.persistent.com/)
+- Persistent Systems [Website](https://www.persistent.com/) | Spring, Hibernate, JQuery, Vaadin
    - Worked as full stack engineer on various client projects
 
 <h3 align="left">Stats:</h3>
