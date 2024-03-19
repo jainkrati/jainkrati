@@ -41,11 +41,6 @@ Evolved from an engineer to a tech lead, manager, engineering head, CTO. Adept i
 - Persistent Systems [Website](https://www.persistent.com/) | Spring, Hibernate, JQuery, Vaadin
    - Worked as full stack engineer on various client projects
 
-<h3 align="left">Stats:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainkrati&show_icons=true&locale=en&layout=compact" alt="jainkrati" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainkrati&show_icons=true&locale=en" alt="jainkrati" /></p>
 
 
 
