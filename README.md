@@ -16,6 +16,8 @@ Evolved from an engineer to a tech lead, manager, engineering head, CTO. Adept i
 
 <h3 align="left">Portfolio:</h3>
 
+- General Magic [Website](https://generalmagic.io/) | Solidity, Rust, React
+  - Leading tech, partnerships, culture, hiring for a team of 12 engineers while working on several blockchain products on ethereum, solana, optimism
 - Librty [Website](https://librty.xyz/) | [All apps](https://linktr.ee/librty) | Flutter, unity, JS, Solidity, Rust, AWS
   - Responsible for all things tech: Research, Architecture, Coding, Mentoring, Hiring, Partnerships @ Librty
   - Published Librty dApp and mSite (flutter | JS) supporting EVM chains, solana
