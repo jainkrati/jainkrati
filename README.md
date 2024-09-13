@@ -18,6 +18,8 @@ Evolved from an engineer to a tech lead, manager, engineering head, CTO. Adept i
 
 - General Magic [Website](https://generalmagic.io/) | Solidity, Rust, React
   - Leading implementation, partnerships, culture, hiring for a team of 15 engineers while developing several blockchain products on ethereum, solana, optimism
+  - Building [Giveth](https://x.com/Giveth) [Qacc](https://x.com/theqacc) [Unicorn Wallet](https://x.com/myunicornwallet) [Pairwise](https://x.com/pairwisevote) [Praise](https://x.com/givepraise)
+ 
 - Space And Time [Website](https://www.spaceandtime.io/) | Rust, Python, Kubernetes
   - Implemented Rust based indexing
 - Librty [Website](https://librty.xyz/) | [All apps](https://linktr.ee/librty) | Flutter, unity, JS, Solidity, Rust, AWS
