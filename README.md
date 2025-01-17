@@ -6,11 +6,15 @@
 Completed my Engineering in Computer Science 14 years ago and began as a full stack engineer. Developed several mobile and web applications while coding and mentoring team members. 
 Evolved from an engineer to a tech lead, manager, engineering head, CTO. Adept in hiring, mentoring, training and leading teams for all tech stacks while extremely hands-on with tech. With experience in solidity, rust, golang, node, react, react native, flutter, swift, kotlin I have developed comfort switching technologies and working on complex projects.
 
+<h3 align="left">Read my thoughts and findings:</h3>
+<p align="left">
+<a href="https://paragraph.xyz/@krati.eth" target="blank">Paragraph</a>
+<a href="https://medium.com/@kratijain" target="blank">Medium</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kratijain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/krati-jain-56182460/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krati-jain-56182460" height="30" width="40" /></a>
+<a href="https://twitter.com/kratijain" target="blank">Twitter</a>
+<a href="https://www.linkedin.com/in/krati-jain-56182460/" target="blank">Linkedin</a>
   
 </p>
 
