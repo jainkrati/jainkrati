@@ -3,7 +3,7 @@
 
 <h3 align="left">About Me:</h3>
 
-Completed my Engineering in Computer Science 14 years ago and began as a full stack engineer. Developed several mobile and web applications while coding and mentoring team members. 
+Completed my Engineering in Computer Science 15 years ago and began as a full stack engineer. Developed several mobile and web applications while coding and mentoring team members. 
 Evolved from an engineer to a tech lead, manager, engineering head, CTO. Adept in hiring, mentoring, training and leading teams for all tech stacks while extremely hands-on with tech. With experience in solidity, rust, golang, node, react, react native, flutter, swift, kotlin I have developed comfort switching technologies and working on complex projects.
 
 <h3 align="left">Read my thoughts and findings:</h3>
