@@ -3,8 +3,11 @@
 
 <h3 align="left">About Me:</h3>
 
-Completed my Engineering in Computer Science 15 years ago and began as a full stack engineer. Developed several mobile and web applications while coding and mentoring team members. 
-Evolved from an engineer to a tech lead, manager, engineering head, CTO. Adept in hiring, mentoring, training and leading teams for all tech stacks while extremely hands-on with tech. With experience in solidity, rust, golang, node, react, react native, flutter, swift, kotlin I have developed comfort switching technologies and working on complex projects.
+I am a seasoned technology leader with over 15 years of experience engineering software, scaling teams, and shipping products—from early-stage prototypes to production-ready systems. My journey spans Web2 and Web3, with a strong foundation in full-stack development, cloud infrastructure, and smart contract engineering. Over the last 4+ years, I have focused intensely on the decentralized ecosystem, where I’ve led teams, architected cross-chain platforms, and delivered open-source tools that power real-world use cases in governance, gaming, DeFi, identity and wallet infrastructure.
+
+As CTO at General Magic and Librty, I built and scaled engineering teams (up to 25 members), delivered blockchain-native products like account-abstracted wallets, multi-chain NFT tooling, identity integrations, and community-driven coordination platforms. I have deep experience across EVM, Solana, and zero-knowledge-based systems, and I’ve consistently driven innovation through hands-on architecture, strategic technical vision, and inclusive team culture. In parallel, I’ve founded and led Greenbee Labs—an independent Web3 studio through which I’ve executed high-impact projects, secured grants, and run developer education initiatives.
+
+I specialize in bridging visionary product thinking with robust engineering execution. I thrive in environments where I can drive both technical direction and organizational growth—leading from the front, mentoring teams, and building systems that are scalable, composable, and aligned with long-term protocol value. I’m now looking to bring this experience to a mission-driven organization where I can continue shaping the future of decentralized tech as a CTO or senior technical leader.
 
 <h3 align="left">Read my thoughts and findings:</h3>
 <p align="left">
